@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Shrinivassan
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Front-end
+- Shrinivassan 
+- UI/UX Designer & Developer 
 - 📫 Reach me at Linkedin : https://www.linkedin.com/in/shrini-vassan-b2107820a/
 -  @ Gmail : Shrinivassan7@gmail.com
